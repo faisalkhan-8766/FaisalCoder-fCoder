@@ -1,0 +1,28 @@
+/* html{
+    height: 100%;
+    width: 100%;
+} */
+.navbar{
+    background-color: rgb(155, 146, 146) !important;
+    
+}
+
+/* .main-content{
+   max-height: 10rem;
+   width: 100%;
+} */
+.cimage{
+    height: 24rem;
+    width:100%;
+}
+
+.xworld{
+    height: 23rem;
+    width:100%;
+}
+
+/* #container{
+    margin: 4px 8px;
+    padding: 8px;
+} */
+
